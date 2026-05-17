@@ -25,13 +25,6 @@ Currently at **PayTag**, working on a Flutter/Dart self-checkout kiosk applicati
 | [Kiosk Payment Demo](https://github.com/OsherElikamel/kiosk-payment-demo) | Desktop self-checkout kiosk simulator with RFID scanning and multi-store support | Flutter, Dart |
 | [Portfolio](https://osher-elikamel.onrender.com) | My personal portfolio site | React, TypeScript, MUI |
 
-## Engineering playbook
-
-| Resource | Description |
-|----------|-------------|
-| [dev-docs](https://github.com/OsherElikamel/dev-docs) | Personal development standards, guides, and templates for full-stack projects |
-| [claude-skills](https://github.com/OsherElikamel/claude-skills) | Claude Code skills — the same standards as executable AI-assisted workflows |
-
 ## How to reach me
 
 - **Portfolio:** [osher-elikamel.onrender.com](https://osher-elikamel.onrender.com)
