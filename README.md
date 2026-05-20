@@ -2,7 +2,7 @@
 
 Full-Stack Developer building production systems across backend, frontend, and infrastructure.
 
-Currently at **PayTag**, working on a Flutter/Dart self-checkout kiosk application and maintaining Ansible-based automation systems across Linux environments.
+Experienced with Flutter/Dart desktop applications, Ansible-based automation across Linux environments, and full-stack web development.
 
 ## What I work with
 
