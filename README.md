@@ -7,7 +7,7 @@ Experienced with React and TypeScript web apps, Python backends with FastAPI, Fl
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,dart,react,docker,mongodb,postgres,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,dart,react,nodejs,docker,mongodb,postgres,linux,git,github" />
 </p>
 
 ## Featured Projects
