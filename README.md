@@ -1,4 +1,4 @@
-# Hi, I'm Osher
+# Hi, I'm Osher :wave:
 
 Full-Stack Developer building production-ready systems across backend, frontend, and infrastructure.
 
@@ -7,7 +7,7 @@ Experienced with React and TypeScript web apps, Python backends with FastAPI, Fl
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,dart,react,fastapi,nodejs,express,flutter,docker,mongodb,postgres,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,dart,react,docker,mongodb,postgres,linux,git,github" />
 </p>
 
 ## Featured Projects
@@ -31,7 +31,7 @@ AI-powered dashboard with live coin prices, market news, AI-generated insights, 
 **React 19 | Express 5 | MongoDB | MUI**
 
 <a href="https://github.com/OsherElikamel/ai-crypto-dashboard">
-  <img src="https://raw.githubusercontent.com/OsherElikamel/ai-crypto-dashboard/main/docs/dashboard_dark.png" width="700" alt="AI Crypto Dashboard" />
+  <img src="https://raw.githubusercontent.com/OsherElikamel/ai-crypto-dashboard/main/docs/dashboard.png" width="700" alt="AI Crypto Dashboard" />
 </a>
 
 ---
