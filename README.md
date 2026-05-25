@@ -12,9 +12,9 @@ Experienced with React and TypeScript web apps, Python backends with FastAPI, Fl
 
 ## Featured Projects
 
-### [DevBoard](https://github.com/OsherElikamel/devboard) — Developer Dashboard
+### [DevBoard](https://github.com/OsherElikamel/devboard)
 
-Full-stack dashboard for tracking projects, tasks, and development progress. Status charts, task management, and settings — all in dark/light mode.
+Full-stack dashboard for tracking projects, tasks, and development progress. Status charts, task management, and settings, all in dark/light mode.
 
 **React 19 | FastAPI | PostgreSQL | Docker**
 
@@ -24,7 +24,7 @@ Full-stack dashboard for tracking projects, tasks, and development progress. Sta
 
 ---
 
-### [AI Crypto Dashboard](https://github.com/OsherElikamel/ai-crypto-dashboard) — Crypto Intelligence
+### [AI Crypto Dashboard](https://github.com/OsherElikamel/ai-crypto-dashboard)
 
 AI-powered dashboard with live coin prices, market news, AI-generated insights, and crypto memes. Personalized via an onboarding quiz.
 
@@ -36,7 +36,7 @@ AI-powered dashboard with live coin prices, market news, AI-generated insights, 
 
 ---
 
-### [Live Code Classroom](https://github.com/OsherElikamel/live-code-classroom) — Real-Time Coding
+### [Live Code Classroom](https://github.com/OsherElikamel/live-code-classroom)
 
 Real-time coding classroom where mentors create JavaScript exercises and watch students solve them live. Built with Socket.IO and Monaco Editor.
 
