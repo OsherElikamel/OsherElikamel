@@ -48,6 +48,34 @@ Real-time coding classroom where mentors create JavaScript exercises and watch s
 
 ---
 
+<details>
+<summary><strong>More Projects</strong></summary>
+<br>
+
+### [DocChat](https://github.com/OsherElikamel/docchat)
+
+Upload a document and chat with its content using AI. Supports PDF, TXT, and Markdown files with session-based conversations.
+
+**React | FastAPI | Groq (Llama 3.3 70B)**
+
+<a href="https://github.com/OsherElikamel/docchat">
+  <img src="https://raw.githubusercontent.com/OsherElikamel/docchat/main/docs/first_question.png" width="700" alt="DocChat" />
+</a>
+
+---
+
+### [Kiosk Payment Demo](https://github.com/OsherElikamel/kiosk-payment-demo)
+
+Flutter desktop self-checkout kiosk simulator with RFID scanning, multi-store support, bilingual UI, and configurable payment outcomes.
+
+**Flutter | Dart | Provider**
+
+<a href="https://github.com/OsherElikamel/kiosk-payment-demo">
+  <img src="https://raw.githubusercontent.com/OsherElikamel/kiosk-payment-demo/main/docs/items_scanned.png" width="700" alt="Kiosk Payment Demo" />
+</a>
+
+</details>
+
 ## All Projects
 
 | Project | Description | Stack |
@@ -57,7 +85,9 @@ Real-time coding classroom where mentors create JavaScript exercises and watch s
 | [DocChat](https://github.com/OsherElikamel/docchat) | Upload a document and chat with its content using AI | React, FastAPI, Groq (Llama 3.3 70B) |
 | [Live Code Classroom](https://github.com/OsherElikamel/live-code-classroom) | Real-time coding classroom with live code sync and solution checking | React, Express, Socket.IO, MongoDB |
 | [Kiosk Payment Demo](https://github.com/OsherElikamel/kiosk-payment-demo) | Desktop self-checkout kiosk simulator with RFID and multi-store support | Flutter, Dart |
-| [Portfolio](https://osher-elikamel.onrender.com) | Personal portfolio site with dark/light mode and scroll animations | React, TypeScript, MUI |
+| [Portfolio](https://github.com/OsherElikamel/portfolio) | Personal portfolio site with dark/light mode and scroll animations | React, TypeScript, MUI |
+
+**Live Demos:** [DevBoard](https://devboard-frontend-tagh.onrender.com) · [Portfolio](https://osher-elikamel.onrender.com)
 
 ## Contact
 
